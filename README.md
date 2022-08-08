@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Has una suma solo de numeros pares hasta el 28
---->
+
